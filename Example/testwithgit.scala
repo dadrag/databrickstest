@@ -1,2 +1,2 @@
 // Databricks notebook source
-dbutils.fs.ls.help
+dbutils.fs.help("ls")
